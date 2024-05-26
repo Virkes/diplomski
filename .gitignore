@@ -1,0 +1,8 @@
+Diplomski_rad_predlozak_travanj_2020.doc
+NAPS_L
+.env
+darknet-yolo/darknet
+darknet-yolo/yolov3.weights
+darknet-yolo/yolov3-openimages.weights
+slike
+azure_db.sqlite
